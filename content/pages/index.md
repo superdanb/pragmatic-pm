@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/marketing-playbook.png
+    image: images/Big Pragmatic PM blue.png
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
