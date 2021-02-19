@@ -9,12 +9,6 @@ sections:
       create effective landing pages, compelling ads, creative copywriting and
       converting marketing materials for any business.
     actions:
-      - label: Get the book
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
@@ -24,6 +18,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: Get the book
+        url: /pricing
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
     image: images/Big Pragmatic PM blue.png
     image_alt: Marketing Playbook preview
     media_position: left
