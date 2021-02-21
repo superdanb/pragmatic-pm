@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Marketing Tricks No MBA Can Teach You
+    title: The Pragmatic Product Manager
     subtitle: Your guide to B2B marketing in the real world.
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/marketing-playbook.png
+    image: images/Big Pragmatic PM blue.png
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
@@ -70,7 +70,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside.png
+        image: images/Practical PM Blue Right Top.png
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
@@ -155,7 +155,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside-2.png
+        image: images/Pragmatic PM Blue Page Top Left.png
         image_alt: Look inside Marketing Playbook
         media_position: left
         media_width: fifty

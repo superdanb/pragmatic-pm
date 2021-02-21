@@ -1,14 +1,14 @@
 {
     "title": "Stackbit Book Theme",
     "path_prefix": "/",
-    "layout_type": "boxed",
-    "style": "classic",
-    "palette": "gray",
+    "layout_type": "full-width",
+    "style": "minimal",
+    "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Marketing Playbook",
-        "logo": "images/logo.svg",
+        "logo": "images/PM book blue.png",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -44,7 +44,7 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/melodic-pluto.png",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
@@ -120,5 +120,6 @@
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=book&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+    },
+    "domain": "https://pragmatic-pm-db6da.netlify.app"
 }
